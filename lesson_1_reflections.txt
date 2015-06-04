@@ -1,0 +1,33 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+   Use command FC(diff) old_version_file new_version_file
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    If project will no longer work after making changes. You can return to his old working version.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    I can commit the changes to the project in hand. When it is convenient to me
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    If we write a patch to the application, which includes multiple files, it is convenient to combine them into a single commit.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    I can you use 'git log' for find ID commits with needed message and use 'git diff' view changes in this file
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Using the "git heskout" we will be able to return the current version of our project
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I want to try to use git for the current project

@@ -1,0 +1,34 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	There is an opportunity to work with git.
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+	
+	In the repository - is where Git stores the metadata and object database for our project.
+	In the working directory - it is extracted from the database copy of a specific version of the project
+	In the staging area - it is a regular file is usually stored in the directory Git, which contains information that should go into your next commit.
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+	Use 'git status'
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+	
+	For experiments on the project.
+	For the separation of the powers of developers.
+	The ability to combine pieces of the project in one - general.
+
+How do the diagrams help you visualize the branch structure?
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+	Combining options for developing the project
+
+What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
+manually?
+	Pros (automatic merging) - increase the speed of development.
+	Cons - increases the likelihood of errors.
