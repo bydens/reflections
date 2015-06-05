@@ -6,3 +6,12 @@ Describe the differences between forks, clones, and branches. When would you use
   Fork - It allows you to copy the repository to his initial author.
   Clone - Copying a remote repository to your local computer.
   Branche - Creating branches in the project.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+  Fast-forward merge.
+  
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+  I don't known.
+  
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+  To use fork
